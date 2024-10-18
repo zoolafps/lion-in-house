@@ -1,0 +1,20 @@
+{
+  "name": "lion-in-house-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src"
+  },
+  "keywords": [],
+  "author": "Lion in House",
+  "license": "ISC",
+  "description": "This is a Oficial Web page of Lion in House company.",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "morgan": "^1.10.0"
+  }
+}

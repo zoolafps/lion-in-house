@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Hearphones X12",
+        "coverImage": "audifonos-de-diadema.png",
+        "images": [
+            "./assets/images/..",
+            "./assets/images/..",
+            "./assets/images/.."
+        ],
+        "price": 2000,
+        "page": "abc"
+    },
+    {
+        "id": 2,
+        "name": "Airpods D10",
+        "coverImage": "audifonos.png",
+        "images": [
+            "./assets/images/..",
+            "./assets/images/..",
+            "./assets/images/.."
+        ],
+        "price": "1000"
+    },
+    {
+        "id": 3,
+        "name": "Smart watch Z2",
+        "coverImage": "reloj-inteligente.png",
+        "images": [
+            "./assets/images/..",
+            "./assets/images/..",
+            "./assets/images/.."
+        ],
+        "price": "4000"
+    },
+    {
+        "id": 4,
+        "name": "L cam",
+        "coverImage": "l-cam.png",
+        "images": [
+            "./assets/images/..",
+            "./assets/images/..",
+            "./assets/images/.."
+        ],
+        "price": "160"
+    }
+]
